@@ -81,7 +81,7 @@ Interactive demo with side-by-side comparison of base vs. fine-tuned model outpu
 │   ├── 3_ingest_cuad.py               # Extract clauses from CUAD
 │   ├── 4_distill_cuad_gemini.py       # Generate labels via Gemini (CUAD)
 │   ├── 5_merge_datasets.py            # Merge LEDGAR + CUAD
-│   └── 8_compile_eval_data.py         # Compile train / val / test splits
+│   └── 6_compile_eval_data.py         # Compile train / val / test splits
 │
 ├── .env.example                       # Environment variable template
 └── requirements.txt

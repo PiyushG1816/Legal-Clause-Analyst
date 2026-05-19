@@ -6,6 +6,10 @@ The model takes a legal clause as input and returns a structured JSON analysis w
 
 ---
 
+![Demo](assets/demo_screenshot_1.png)(assets/demo_screenshot_2.png)(assets/demo_screenshot_3
+.png)
+
+---
 ## Results
 
 Evaluated on 400 held-out test examples comparing base Llama 3.1 8B Instruct vs. the fine-tuned model:

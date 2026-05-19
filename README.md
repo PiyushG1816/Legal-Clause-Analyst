@@ -71,8 +71,6 @@ Interactive demo with side-by-side comparison of base vs. fine-tuned model outpu
 
 ```
 ├── notebooks/
-│   ├── CUAD/                          # CUAD dataset exploration
-│   ├── LEDGAR/                        # LEDGAR dataset exploration
 │   ├── finetune_llama3_qlora.ipynb    # QLoRA training pipeline
 │   ├── evaluate_base_vs_finetuned.ipynb  # Evaluation & metrics
 │   └── legal_clause_analyst_app.ipynb    # Gradio demo app

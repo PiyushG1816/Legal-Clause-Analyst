@@ -6,8 +6,9 @@ The model takes a legal clause as input and returns a structured JSON analysis w
 
 ---
 
-![Demo](assets/demo_screenshot_1.png)(assets/demo_screenshot_2.png)(assets/demo_screenshot_3
-.png)
+![Demo 1](assets/demo_screenshot_1.png)
+![Demo 2](assets/demo_screenshot_2.png)
+![Demo 3](assets/demo_screenshot_3.png)
 
 ---
 ## Results

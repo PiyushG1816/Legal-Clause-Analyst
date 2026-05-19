@@ -1,0 +1,22 @@
+# Data files
+*.jsonl
+*.json
+data/
+notebooks/LEDGAR/
+notebooks/CUAD/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Model weights
+*.bin
+*.safetensors
+*.pt
+*.pth
+huggingface-sp*/
